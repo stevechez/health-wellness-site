@@ -1,16 +1,20 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+name: Steve Chez
+avatar: /static/images/avatar.jpeg
+occupation: Software Developer, Blogger, Outdoor Enthusiast
+company:
+email: stevechez@gmail.com
 twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+linkedin: https://www.linkedin.com/in/steve-maciaszek
+github: https://github.com/stevechez
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Meet Steve, a highly skilled web and mobile software developer and designer with a passion for health and fitness. With 15 years of experience in the industry, Steve has honed their skills in creating visually stunning and highly functional websites and mobile applications.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+As a health and fitness enthusiast, Steve has a deep understanding of the importance of technology in promoting healthy lifestyles. Their expertise in software development and design allows them to bring innovative solutions to the table, helping individuals make positive changes in their lives.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to their technical skills, Steve is a great team player with excellent communication skills. They are committed to understanding the unique needs of each project and working collaboratively with clients to achieve their goals.
+
+When not developing and designing websites and mobile applications, you can find Steve at the gym or out in nature, practicing what they preach and living a healthy and active lifestyle.
+
+If you are looking for a talented software developer and designer who is passionate about health and fitness, Steve is the perfect choice for your project.
